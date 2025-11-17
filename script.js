@@ -1,13 +1,37 @@
-// Answer toggle logic – used inside lessons.
-document.addEventListener('click', (e) => {
-  const btn = e.target.closest('.answer-toggle');
-  if (!btn) return;
+// script.js
+document.addEventListener("DOMContentLoaded", () => {
+  // ========== SIDEBAR DROPDOWNS ==========
+  const parents = document.querySelectorAll(".nav-parent");
 
-  const id = btn.getAttribute('data-answer');
-  if (!id) return;
+  parents.forEach((btn) => {
+    btn.addEventListener("click", () => {
+      const targetId = btn.getAttribute("data-target");
+      if (!targetId) return;
 
-  const ans = document.getElementById(id);
-  if (!ans) return;
+      const subMenu = document.getElementById(targetId);
+      if (!subMenu) return;
 
-  ans.classList.toggle('visible');
+      const isOpen = subMenu.classList.toggle("open");
+      btn.classList.toggle("open", isOpen);
+    });
+  });
+
+  // ========== ANSWER TOGGLES ==========
+  const answerButtons = document.querySelectorAll(".answer-toggle");
+
+  answerButtons.forEach((btn) => {
+    btn.addEventListener("click", () => {
+      const answerId = btn.getAttribute("data-answer");
+      if (!answerId) return;
+
+      const panel = document.getElementById(answerId);
+      if (!panel) return;
+
+      const isOpen = panel.classList.toggle("open");
+      const labelSpan = btn.querySelector("span");
+      if (labelSpan) {
+        labelSpan.textContent = isOpen ? "Hide answers" : "Show answers";
+      }
+    });
+  });
 });
