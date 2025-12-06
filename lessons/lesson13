@@ -1,0 +1,542 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Lesson 13 – Future & “Gonna” | Saudi Arabic Course</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="../styles.css" />
+</head>
+<body>
+  <div class="layout">
+    <!-- ========== SIDEBAR ========== -->
+    <aside class="sidebar">
+      <div>
+        <div class="sidebar-title">
+          <a href="../index.html" class="brand-link">Saudi Arabic Course</a>
+        </div>
+        <div class="sidebar-sub">Najdi / Hijāzi with a Gulf twist</div>
+      </div>
+
+      <div>
+        <div class="nav-section-title">Lessons</div>
+        <ul class="nav-list">
+          <li><a class="nav-link" href="lesson01.html">Lesson 1 – Greetings & Introductions</a></li>
+          <li><a class="nav-link" href="lesson02.html">Lesson 2 – Family & People</a></li>
+          <li><a class="nav-link" href="lesson03.html">Lesson 3 – Daily Routine</a></li>
+          <li><a class="nav-link" href="lesson04.html">Lesson 4 – Time, Days & Prayer Times</a></li>
+          <li><a class="nav-link" href="lesson05.html">Lesson 5 – Food, Drink & Cafés</a></li>
+          <li><a class="nav-link" href="lesson06.html">Lesson 6 – Shopping & Prices</a></li>
+          <li><a class="nav-link" href="lesson07.html">Lesson 7 – Directions & Transport</a></li>
+          <li><a class="nav-link" href="lesson08.html">Lesson 8 – Masjid, Dīn & Duʿā</a></li>
+          <li><a class="nav-link" href="lesson09.html">Lesson 9 – Health & Feeling Unwell</a></li>
+          <li><a class="nav-link" href="lesson10.html">Lesson 10 – Work, Study & Future Plans</a></li>
+          <li><a class="nav-link" href="lesson11.html">Lesson 11 – Past Tense 1</a></li>
+          <li><a class="nav-link" href="lesson12.html">Lesson 12 – Past Tense 2</a></li>
+          <li><a class="nav-link active" href="lesson13.html">Lesson 13 – Future & “Gonna”</a></li>
+          <li><a class="nav-link" href="lesson14.html">Lesson 14 – Opinions & Preferences</a></li>
+          <li><a class="nav-link" href="lesson15.html">Lesson 15 – Invitations & Going Out</a></li>
+          <li><a class="nav-link" href="lesson16.html">Lesson 16 – Phone & WhatsApp Arabic</a></li>
+          <li><a class="nav-link" href="lesson17.html">Lesson 17 – At Home & Chores</a></li>
+          <li><a class="nav-link" href="lesson18.html">Lesson 18 – Travel, Airports & Hotels</a></li>
+          <li><a class="nav-link" href="lesson19.html">Lesson 19 – Eating Out & Restaurants</a></li>
+          <li><a class="nav-link" href="lesson20.html">Lesson 20 – People & Personality</a></li>
+          <li><a class="nav-link" href="lesson21.html">Lesson 21 – Stories & Past Experiences</a></li>
+          <li><a class="nav-link" href="lesson22.html">Lesson 22 – Problems & Complaints</a></li>
+          <li><a class="nav-link" href="lesson23.html">Lesson 23 – Jokes, Banter & Slang</a></li>
+          <li><a class="nav-link" href="lesson24.html">Lesson 24 – Arab Culture in the UK</a></li>
+          <li><a class="nav-link" href="lesson25.html">Lesson 25 – Media: Songs & Series</a></li>
+          <li><a class="nav-link" href="lesson26.html">Lesson 26 – Najdi / Hijāzi Deep Dive</a></li>
+          <li><a class="nav-link" href="lesson27.html">Lesson 27 – Khaleeji Influence</a></li>
+          <li><a class="nav-link" href="lesson28.html">Lesson 28 – Extended Dialogues</a></li>
+          <li><a class="nav-link" href="lesson29.html">Lesson 29 – Review 1–10</a></li>
+          <li><a class="nav-link" href="lesson30.html">Lesson 30 – Review 11–20</a></li>
+          <li><a class="nav-link" href="lesson31.html">Lesson 31 – Review 21–28</a></li>
+          <li><a class="nav-link" href="lesson32.html">Lesson 32 – Survival in Any Arab Country</a></li>
+          <li><a class="nav-link" href="lesson33.html">Lesson 33 – ʿUmrah & Ḥajj Situations</a></li>
+          <li><a class="nav-link" href="lesson34.html">Lesson 34 – High-Pressure Situations</a></li>
+          <li><a class="nav-link" href="lesson35.html">Lesson 35 – Fluent Small Talk</a></li>
+          <li><a class="nav-link" href="lesson36.html">Lesson 36 – Final Project & Wrap-up</a></li>
+        </ul>
+      </div>
+
+      <div class="sidebar-footer">
+        Dialect blend:<br />
+        <strong>40%</strong> Najdi • <strong>30%</strong> Hijāzi •
+        <strong>20%</strong> Gulf • <strong>10%</strong> MSA
+      </div>
+    </aside>
+
+    <!-- ========== MAIN CONTENT ========== -->
+    <main class="content">
+      <header class="lesson-header">
+        <h1 class="lesson-title">Lesson 13 – Future &amp; “Gonna” Talk</h1>
+        <p class="lesson-subtitle">
+          Say “I’m gonna go”, “We’ll eat later”, “Tomorrow I’ll study”, “On Friday we’re going ʿUmrah” – in Saudi / Gulf style.
+        </p>
+        <div class="badge-row">
+          <span class="badge badge-accent">Level: A2 → early B1</span>
+          <span class="badge">Grammar: Future</span>
+          <span class="badge">Focus: Speaking & Plans</span>
+          <span class="badge">Time: ~90 minutes</span>
+        </div>
+      </header>
+
+      <!-- 1. OVERVIEW -->
+      <section id="sec-overview">
+        <div class="card">
+          <h2 class="section-title">1. Overview – How Saudis Say “Gonna”</h2>
+          <p class="section-subtitle">
+            English has “will / gonna / planning to”. Saudi / Gulf Arabic usually uses:
+          </p>
+
+          <ul>
+            <li><strong>رَاح + present verb</strong> – rāḥ arūḥ, rāḥ nṛūḥ… (more Gulf / Hijāzi)</li>
+            <li><strong>بَـ + present verb</strong> – barūḥ, banākol… (Hijāzi / Gulf)</li>
+            <li><strong>أَبْغَى + present</strong> – abghā arūḥ… (more like “I want to go” but often used as future)</li>
+          </ul>
+
+          <p class="latin">
+            We’ll mainly use **رَاح** and **بَـ** because they’re super common and sound natural in your Najdi/Hijāzi/Gulf blend.
+          </p>
+
+          <div class="label">By the end of this lesson, you can:</div>
+          <ul>
+            <li>Use <strong>رَاح</strong> and <strong>بَـ</strong> to talk about the future.</li>
+            <li>Say what you’ll do tomorrow, next week, on Friday, in Ramaḍān, etc.</li>
+            <li>Make and accept/refuse invitations (“we’re gonna go”, “I can’t come”).</li>
+            <li>Talk about near future plans for ʿUmrah / Saudi / Arab world trips.</li>
+          </ul>
+        </div>
+      </section>
+
+      <!-- 2. CORE PATTERNS -->
+      <section id="sec-patterns">
+        <div class="card">
+          <h2 class="section-title">2. Core Future Patterns</h2>
+          <p class="section-subtitle">
+            Memorise these “shapes” then swap verbs/words inside.
+          </p>
+
+          <h3>2.1 رَاح + Present Verb</h3>
+          <p class="latin">
+            <strong>رَاح + [present tense]</strong> ≈ “will / gonna”
+          </p>
+
+          <ul>
+            <li class="arabic-small">
+              رَاح أَرُوح – <span class="latin">rāḥ arūḥ</span> – I’ll go / I’m gonna go
+            </li>
+            <li class="arabic-small">
+              رَاح نَرُوح – <span class="latin">rāḥ narūḥ</span> – we’ll go
+            </li>
+            <li class="arabic-small">
+              رَاح آكُل – <span class="latin">rāḥ ākul</span> – I’ll eat
+            </li>
+            <li class="arabic-small">
+              رَاح تَدْرُس – <span class="latin">rāḥ tadrus</span> – he/she will study (context)
+            </li>
+          </ul>
+
+          <h3>2.2 بَـ + Present Verb (especially Hijāzi/Gulf)</h3>
+          <p class="latin">
+            <strong>بَـ + [present verb]</strong> ≈ “gonna”
+          </p>
+
+          <ul>
+            <li class="arabic-small">
+              بَرُوح – <span class="latin">barūḥ</span> – I’m gonna go
+            </li>
+            <li class="arabic-small">
+              بَنرُوح – <span class="latin">banrūḥ</span> – we’re gonna go
+            </li>
+            <li class="arabic-small">
+              بَآكُل – <span class="latin">bākul</span> – I’m gonna eat
+            </li>
+            <li class="arabic-small">
+              بَنَدْرُس – <span class="latin">bandrus</span> – we’re gonna study
+            </li>
+          </ul>
+
+          <p class="latin">
+            You can use either pattern. A nice combo for you:
+            <strong>رَاح</strong> when you speak a bit slower / clearer, and
+            <strong>بَـ</strong> when you want to sound more Hijāzi/Gulf/casual.
+          </p>
+        </div>
+      </section>
+
+      <!-- 3. SAMPLE SENTENCES -->
+      <section id="sec-examples">
+        <div class="card">
+          <h2 class="section-title">3. Sample Sentences – Plug & Play</h2>
+          <p class="section-subtitle">
+            All of these use verbs and vocab you already know.
+          </p>
+
+          <ul>
+            <li class="arabic-small">
+              بَكْرَه رَاح أَرُوح المَسْجِد بَدْرِي – 
+              <span class="latin">bukrah rāḥ arūḥ il-masjid badrī</span> – Tomorrow I’ll go to the masjid early.
+            </li>
+            <li class="arabic-small">
+              اليَوْم المَسَاء بَنَأكُل بَرَّا – 
+              <span class="latin">il-yōm il-masā banākol barra</span> – Tonight we’re gonna eat out.
+            </li>
+            <li class="arabic-small">
+              رَاح أَدْرُس شُوَيَّة بَعْدِين أَشُوف نَتْفْلِكْس – 
+              <span class="latin">rāḥ adrus shwayyah baʿdēn ashūf Netflix</span> – I’ll study a bit then watch Netflix.
+            </li>
+            <li class="arabic-small">
+              في رَمَضَان بَنِحَاوِل نَرُوح التَّرَاوِيح كُل يَوْم – 
+              <span class="latin">fī Ramaḍān banḥāwil narūḥ at-tarāwīḥ kull yōm</span> – In Ramaḍān we’ll try to go to tarāwīḥ every day.
+            </li>
+          </ul>
+
+          <div class="exercise-block">
+            <div class="exercise-title">Your Turn – English → Arabic</div>
+            <div class="exercise-text">
+              Write in your notebook, using <strong>رَاح</strong> or <strong>بَـ</strong>:
+            </div>
+            <ol>
+              <li>Tomorrow I’m going to study Arabic.</li>
+              <li>Tonight we’re going to eat kabsa.</li>
+              <li>On Friday we’ll go to the masjid early.</li>
+            </ol>
+
+            <button class="answer-toggle" data-answer="ans-13-sentences">
+              <span>Show sample answers</span>
+            </button>
+            <div id="ans-13-sentences" class="answer">
+              <div class="answer-header">Sample answers</div>
+              <ul>
+                <li>
+                  بَكْرَه رَاح أَدْرُس عَرَبِي – 
+                  <span class="latin">bukrah rāḥ adrus ʿArabī</span>
+                </li>
+                <li>
+                  اليَوْم المَسَاء بَنَأكُل كَبْسَة – 
+                  <span class="latin">il-yōm il-masā banākol kabsa</span>
+                </li>
+                <li>
+                  الجُمُعَة رَاح نَرُوح المَسْجِد بَدْرِي – 
+                  <span class="latin">al-jumʿah rāḥ narūḥ il-masjid badrī</span>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- 4. NEGATIVE FUTURE -->
+      <section id="sec-negative">
+        <div class="card">
+          <h2 class="section-title">4. Negative Future – “I’m Not Gonna…”</h2>
+          <p class="section-subtitle">
+            You already know <strong>ما</strong>. Just bring it to the future.
+          </p>
+
+          <p class="latin">
+            Two very common patterns:
+          </p>
+          <ul>
+            <li><strong>ما رَاح + present</strong> – I’m not gonna / I won’t</li>
+            <li><strong>ما بَـ + present</strong> – I’m not gonna (more casual)</li>
+          </ul>
+
+          <ul>
+            <li class="arabic-small">
+              ما رَاح أَرُوح اليَوْم – 
+              <span class="latin">mā rāḥ arūḥ il-yōm</span> – I’m not going today.
+            </li>
+            <li class="arabic-small">
+              ما بَرُوح الحَفْلَة – 
+              <span class="latin">mā barūḥ il-ḥaflah</span> – I’m not gonna go to the party.
+            </li>
+            <li class="arabic-small">
+              ما رَاح نَأكُل بَرَّا – 
+              <span class="latin">mā rāḥ nākul barra</span> – We’re not gonna eat out.
+            </li>
+          </ul>
+
+          <div class="exercise-block">
+            <div class="exercise-title">Practice – Make It Negative</div>
+            <div class="exercise-text">
+              Turn these into “not gonna”:
+            </div>
+            <ol>
+              <li>بَرُوح المَسْجِد – I’m gonna go to the masjid.</li>
+              <li>بَنَأكُل بَرَّا – We’re gonna eat out.</li>
+              <li>رَاح أَدْرُس اليَوْم – I’ll study today.</li>
+            </ol>
+
+            <button class="answer-toggle" data-answer="ans-13-neg">
+              <span>Show answers</span>
+            </button>
+            <div id="ans-13-neg" class="answer">
+              <div class="answer-header">Answers</div>
+              <ul>
+                <li>ما بَرُوح المَسْجِد</li>
+                <li>ما رَاح نَأكُل بَرَّا</li>
+                <li>ما رَاح أَدْرُس اليَوْم</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- 5. TIME WORDS FOR FUTURE -->
+      <section id="sec-time">
+        <div class="card">
+          <h2 class="section-title">5. Time Words for Future</h2>
+          <p class="section-subtitle">
+            You saw some before; let’s collect the main ones for “future Zeeshan”.
+          </p>
+
+          <table>
+            <thead>
+              <tr><th>Arabic</th><th>Translit</th><th>Meaning</th></tr>
+            </thead>
+            <tbody>
+              <tr><td class="arabic-small">بَكْرَه</td><td>bukrah</td><td>tomorrow</td></tr>
+              <tr><td class="arabic-small">بَعْد بَكْرَه</td><td>baʿd bukrah</td><td>day after tomorrow</td></tr>
+              <tr><td class="arabic-small">بَعْد شُوَيَّة</td><td>baʿd shwayyah</td><td>after a bit / later</td></tr>
+              <tr><td class="arabic-small">الحِين</td><td>il-ḥīn</td><td>now (Gulf/Saudi)</td></tr>
+              <tr><td class="arabic-small">بَعْدِين</td><td>baʿdēn</td><td>later / afterwards</td></tr>
+              <tr><td class="arabic-small">الأُسْبُوع الجَاي</td><td>al-usbūʿ il-jāy</td><td>next week</td></tr>
+              <tr><td class="arabic-small">الشَّهْر الجَاي</td><td>ash-shahr il-jāy</td><td>next month</td></tr>
+              <tr><td class="arabic-small">بَعْد سَنَة</td><td>baʿd sanah</td><td>after a year</td></tr>
+            </tbody>
+          </table>
+
+          <ul>
+            <li class="arabic-small">
+              بَعْد شُوَيَّة بَنَشْرَب شَاي – 
+              <span class="latin">baʿd shwayyah banishrab shāy</span> – We’ll drink tea in a bit.
+            </li>
+            <li class="arabic-small">
+              الأُسْبُوع الجَاي رَاح نَرُوح لِـلْمَدِينَة – 
+              <span class="latin">al-usbūʿ il-jāy rāḥ narūḥ lil-Madīnah</span> – Next week we’ll go to Madīnah.
+            </li>
+          </ul>
+        </div>
+      </section>
+
+      <!-- 6. DIALOGUE 1 – TOMORROW PLANS -->
+      <section id="sec-dialogue1">
+        <div class="card">
+          <h2 class="section-title">6. Dialogue 1 – “What Are You Doing Tomorrow?”</h2>
+          <p class="section-subtitle">
+            Classic chat with a Saudi / Yemeni / Syrian friend in Birmingham.
+          </p>
+
+          <div class="label">Arabic</div>
+          <div class="arabic-small">
+            صَاحِبَك: بَكْرَه إيش رَاح تِسَوِّي؟<br/>
+            أَنْت: بَكْرَه الصُّبْح بَرُوح الشُّغْل، بَعْدِين بَرُوح المَسْجِد.<br/>
+            صَاحِبَك: وبَعْد المَغْرِب؟<br/>
+            أَنْت: بَعْد المَغْرِب رَاح أَدْرُس عَرَبِي شُوَيَّة، وبَعْدِين أَرِيَّح.<br/>
+            صَاحِبَك: حلو، الله يوفّقك يا رجل.
+          </div>
+
+          <div class="label" style="margin-top:0.7rem;">Transliteration</div>
+          <div class="latin">
+            ṣāḥibak: bukrah ēsh rāḥ tisawwī?<br/>
+            anta: bukrah aṣ-ṣubḥ barūḥ ash-shughol, baʿdēn barūḥ il-masjid.<br/>
+            ṣāḥibak: w-baʿd al-maghrib?<br/>
+            anta: baʿd al-maghrib rāḥ adrus ʿArabī shwayyah, w-baʿdēn arayyaḥ.<br/>
+            ṣāḥibak: ḥilw, Allāh ywaffigak yā rajul.
+          </div>
+
+          <div class="label" style="margin-top:0.7rem;">English</div>
+          <div class="latin">
+            Your friend: What are you going to do tomorrow?<br/>
+            You: Tomorrow morning I’m going to work, then I’ll go to the masjid.<br/>
+            Your friend: And after Maghrib?<br/>
+            You: After Maghrib I’ll study Arabic a bit, then I’ll rest.<br/>
+            Your friend: Nice, may Allah give you success, man.
+          </div>
+
+          <div class="exercise-block">
+            <div class="exercise-title">Personalise It</div>
+            <div class="exercise-text">
+              Change:
+            </div>
+            <ul>
+              <li>“work” → your real schedule (college / madrasa / day off).</li>
+              <li>“study Arabic” → something you actually plan (gym / Qur’ān / driving lesson).</li>
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <!-- 7. DIALOGUE 2 – UMRAH PLANS -->
+      <section id="sec-dialogue2">
+        <div class="card">
+          <h2 class="section-title">7. Dialogue 2 – Planning ʿUmrah</h2>
+          <p class="section-subtitle">
+            This one is literally your real life in shā’ Allah.
+          </p>
+
+          <div class="label">Arabic</div>
+          <div class="arabic-small">
+            أَبُوك: إن شاء الله الشَّهْر الجَاي رَاح نَرُوح عُمْرَة.<br/>
+            أَنْت: صَدْق؟ والله خَبَر حِلُو! مَتَى رَاح نَسَافِر؟<br/>
+            أَبُوك: بَعْد رَمَضَان بَكْرَهِين، نَحْجِز التَّذَاكِر الأُسْبُوع الجَاي.<br/>
+            أَنْت: طَيِّب، رَاح أَجَهِّز الشُّنْطَة بَدْرِي.<br/>
+            أَبُوك: ورَاح نِقَعُد فِي مَكَّة يَوْمِين، وبَعْدِين نَرُوح المَدِينَة.
+          </div>
+
+          <div class="label" style="margin-top:0.7rem;">Transliteration</div>
+          <div class="latin">
+            abūk: inshāʼ Allāh ash-shahr il-jāy rāḥ narūḥ ʿumrah.<br/>
+            anta: ṣidg? wallah khabar ḥilw! matā rāḥ nasāfir?<br/>
+            abūk: baʿd Ramaḍān b-shwayyah, naḥjiz at-tadhāker al-usbūʿ il-jāy.<br/>
+            anta: ṭayyib, rāḥ ajahhiz ash-shunṭah badrī.<br/>
+            abūk: wa rāḥ nigaʿʿud fī Makkah yōmayn, w-baʿdēn narūḥ il-Madīnah.
+          </div>
+
+          <div class="label" style="margin-top:0.7rem;">English</div>
+          <div class="latin">
+            Your dad: In shā’ Allah next month we’re going for ʿUmrah.<br/>
+            You: Really? That’s such nice news! When are we going to travel?<br/>
+            Your dad: After Ramaḍān by a bit, we’ll book the tickets next week.<br/>
+            You: Okay, I’ll prepare the suitcase early.<br/>
+            Your dad: And we’ll stay in Makkah two days, then go to Madīnah.
+          </div>
+        </div>
+      </section>
+
+      <!-- 8. LISTENING -->
+      <section id="sec-listening">
+        <div class="card">
+          <h2 class="section-title">8. Listening – Plans & Future Talk</h2>
+          <p class="section-subtitle">
+            Try to catch رَاح / بَـ / time words like بَكْرَه, الأُسْبُوع الجَاي.
+          </p>
+
+          <ul class="listening-list">
+            <li>
+              <a href="https://www.youtube.com/watch?v=V5lIZ0K7Z4M" target="_blank">
+                Saudi / Gulf vlog – My plans for next week
+              </a>
+              <span class="tag">Gulf</span>
+            </li>
+            <li>
+              <a href="https://www.youtube.com/watch?v=AFdtHQqg1Xg" target="_blank">
+                Planning a trip – Arabic conversation
+              </a>
+              <span class="tag">Mixed Arabic</span>
+            </li>
+          </ul>
+
+          <div class="exercise-block" style="margin-top:0.7rem;">
+            <div class="exercise-title">Listening Task</div>
+            <div class="exercise-text">
+              Watch one video and write down:
+            </div>
+            <ol>
+              <li>2 future verbs you recognise (رَاح / بَـ + something).</li>
+              <li>1 future time word (tomorrow, next week, etc.).</li>
+            </ol>
+          </div>
+        </div>
+      </section>
+
+      <!-- 9. SPEAKING DRILLS -->
+      <section id="sec-speaking">
+        <div class="card">
+          <h2 class="section-title">9. Speaking Drills – Your Plans</h2>
+          <p class="section-subtitle">
+            Use your actual life; don’t keep it generic.
+          </p>
+
+          <div class="arabic-small">
+            بَكْرَه بَرُوح المَسْجِد وبَعْدِين بَرُوح الجِم – 
+            <span class="latin">bukrah barūḥ il-masjid w-baʿdēn barūḥ il-gym</span>
+          </div>
+          <div class="arabic-small">
+            الأُسْبُوع الجَاي بَنِبْدَأ دَرْس جَدِيد عَرَبِي – 
+            <span class="latin">al-usbūʿ il-jāy banibdaʼ dars jadīd ʿArabī</span>
+          </div>
+          <div class="arabic-small">
+            في المُسْتَقْبَل رَاح أَتْكَلَّم عَرَبِي أَفْضَل – 
+            <span class="latin">fil-mustaqbal rāḥ atkallam ʿArabī afḍal</span>
+          </div>
+        </div>
+      </section>
+
+      <!-- 10. QUIZ -->
+      <section id="sec-quiz">
+        <div class="card">
+          <h2 class="section-title">10. End-of-Lesson Quiz</h2>
+
+          <div class="exercise-block">
+            <div class="exercise-title">A. Translate to Arabic (Future)</div>
+            <ol>
+              <li>Tomorrow I’ll go to the masjid.</li>
+              <li>Tonight we’re going to eat outside.</li>
+              <li>Next week we’ll start a new Arabic lesson.</li>
+              <li>I’m not going to work tomorrow.</li>
+              <li>In the future I’ll work in the Gulf, in shā’ Allah.</li>
+            </ol>
+
+            <button class="answer-toggle" data-answer="ans-13-quiz-a">
+              <span>Show sample answers</span>
+            </button>
+            <div id="ans-13-quiz-a" class="answer">
+              <div class="answer-header">Sample answers</div>
+              <ul>
+                <li>بَكْرَه رَاح أَرُوح المَسْجِد.</li>
+                <li>اليَوْم المَسَاء بَنَأكُل بَرَّا.</li>
+                <li>الأُسْبُوع الجَاي بَنِبْدَأ دَرْس جَدِيد عَرَبِي.</li>
+                <li>بَكْرَه ما رَاح أَرُوح الشُّغْل.</li>
+                <li>في المُسْتَقْبَل رَاح أَشْتَغِل في الخَلِيج، إن شاء الله.</li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="exercise-block">
+            <div class="exercise-title">B. Choose the More Natural Dialect Option</div>
+            <ol>
+              <li>
+                “I’m going to eat”:<br/>
+                A) سآكل<br/>
+                B) بَآكُل
+              </li>
+              <li>
+                “We will go to the masjid”:<br/>
+                A) سوف نذهب إلى المسجد<br/>
+                B) رَاح نَرُوح المَسْجِد
+              </li>
+              <li>
+                “I’m not going to go”:<br/>
+                A) لن أذهب<br/>
+                B) ما رَاح أَرُوح
+              </li>
+            </ol>
+
+            <button class="answer-toggle" data-answer="ans-13-quiz-b">
+              <span>Show answers</span>
+            </button>
+            <div id="ans-13-quiz-b" class="answer">
+              <div class="answer-header">Answers</div>
+              <ul>
+                <li>1 → B) بَآكُل</li>
+                <li>2 → B) رَاح نَرُوح المَسْجِد</li>
+                <li>3 → B) ما رَاح أَرُوح</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <div class="lesson-footer">
+          End of Lesson 13 – You can now talk about your future plans in natural Saudi / Gulf-style Arabic.
+          Next: Lesson 14 – Opinions &amp; Preferences (how to say what you like, don’t like, and what you think).
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script src="../script.js"></script>
+</body>
+</html>
