@@ -1,37 +1,34 @@
-// script.js
-document.addEventListener("DOMContentLoaded", () => {
-  // ========== SIDEBAR DROPDOWNS ==========
-  const parents = document.querySelectorAll(".nav-parent");
+// Sidebar & Mobile Menu Toggle
+const menuBtn = document.getElementById("menu-btn");
+const sidebar = document.getElementById("sidebar");
 
-  parents.forEach((btn) => {
-    btn.addEventListener("click", () => {
-      const targetId = btn.getAttribute("data-target");
-      if (!targetId) return;
+menuBtn.addEventListener("click", () => {
+  sidebar.classList.toggle("sidebar-hidden");
+});
 
-      const subMenu = document.getElementById(targetId);
-      if (!subMenu) return;
+// Dark Mode Toggle + LocalStorage Save
+const toggle = document.getElementById("dark-toggle");
+const body = document.body;
 
-      const isOpen = subMenu.classList.toggle("open");
-      btn.classList.toggle("open", isOpen);
-    });
-  });
+// Load Saved Mode
+if (localStorage.getItem("theme") === "dark") {
+  body.classList.add("dark");
+  toggle.checked = true;
+}
 
-  // ========== ANSWER TOGGLES ==========
-  const answerButtons = document.querySelectorAll(".answer-toggle");
+toggle.addEventListener("change", () => {
+  body.classList.toggle("dark");
+  localStorage.setItem("theme",
+    body.classList.contains("dark") ? "dark" : "light"
+  );
+});
 
-  answerButtons.forEach((btn) => {
-    btn.addEventListener("click", () => {
-      const answerId = btn.getAttribute("data-answer");
-      if (!answerId) return;
-
-      const panel = document.getElementById(answerId);
-      if (!panel) return;
-
-      const isOpen = panel.classList.toggle("open");
-      const labelSpan = btn.querySelector("span");
-      if (labelSpan) {
-        labelSpan.textContent = isOpen ? "Hide answers" : "Show answers";
-      }
-    });
+// Show/Hide Answer Buttons
+document.querySelectorAll(".answer-toggle").forEach(btn => {
+  btn.addEventListener("click", () => {
+    const id = btn.dataset.answer;
+    const ansBox = document.getElementById(id);
+    ansBox.style.display =
+      ansBox.style.display === "block" ? "none" : "block";
   });
 });
