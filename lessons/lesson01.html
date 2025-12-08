@@ -1,201 +1,263 @@
-<main class="content">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Lesson 1 – Greetings, Introductions & The Saudi Sound</title>
+  <link rel="stylesheet" href="../styles.css" />
+</head>
+<body>
 
-<header class="lesson-header">
-  <h1 class="lesson-title">Lesson 1 — Greetings, Introductions & The Saudi Sound</h1>
-  <p class="lesson-subtitle">
-    Start speaking like a real Saudi / Khaleeji — not a textbook robot —
-    with natural greetings, introductions, and your first complete sentences.
-  </p>
-  <div class="badge-row">
-    <span class="badge badge-accent">Level: A1 → A2</span>
-    <span class="badge">Focus: Speaking & Listening</span>
-    <span class="badge">Dialect: 40% Najdi • 30% Hijāzi • 20% Gulf • 10% MSA</span>
-    <span class="badge">Time: ~90–110 minutes</span>
-  </div>
-</header>
+<button class="hamburger" id="menu-btn">☰</button>
 
+<div class="topbar">
+  <span class="brand-title">Saudi Arabic Course</span>
+  <label class="theme-switch">
+    <input type="checkbox" id="dark-toggle">
+    <span class="slider round"></span>
+  </label>
+</div>
 
-<!-- ======================================================
-SECTION 1 — CORE GREETINGS
-======================================================= -->
-<section class="lesson-section" id="sec-greetings">
-  <h2 class="section-title">1️⃣ Core Saudi Greetings</h2>
-  <p class="section-subtitle">
-    You will use these every time you speak with Arabs — in Birmingham, the masjid,
-    Medina, Jeddah, Riyadh… everywhere.
-  </p>
+<div class="layout">
+  <!-- SIDEBAR -->
+  <aside class="sidebar" id="sidebar">
+    <div class="sidebar-title">
+      <a href="../index.html" class="brand-link">Saudi Arabic Course</a>
+    </div>
+    <div class="sidebar-sub">Najdi / Hijāzi with a Gulf twist</div>
 
-  <div class="label">Islamic Standard (Universal)</div>
-  <div class="arabic-block">السَّلَامُ عَلَيْكُمْ</div>
-  <div class="latin"><strong>as-salāmu ʿalaykum</strong> — Peace be upon you.</div>
-
-  <div class="arabic-block">وَعَلَيْكُم السَّلَام</div>
-  <div class="latin"><strong>wa-ʿalaykum as-salām</strong> — And peace be upon you.</div>
-
-  <hr>
-
-  <div class="label">Casual Saudi Style</div>
-  <div class="arabic-block">هَلّا والله</div>
-  <div class="latin"><strong>hallā wallah</strong> — Hey! Welcome brother!</div>
-
-  <div class="arabic-block">يا هَلا يا مَرْحَبَا</div>
-  <div class="latin"><strong>yā halā yā marḥabā</strong> — Warm welcome!</div>
-
-  <hr>
-
-  <div class="exercise-block">
-    <div class="exercise-title">🎤 Speaking Drill — Repeat Out Loud</div>
-    <p>Say each 6–10× with expression (smile, eye contact):</p>
-    <ul>
-      <li class="arabic-small">السَّلَامُ عَلَيْكُمْ</li>
-      <li class="arabic-small">هَلّا والله</li>
-      <li class="arabic-small">يا هَلا يا مَرْحَبَا</li>
-      <li class="arabic-small">وِشّ أَخْبَارَك؟</li>
+    <div class="nav-section-title">Lessons</div>
+    <ul class="nav-list">
+      <li><a class="nav-link active" href="lesson01.html">Lesson 1 – Greetings & Introductions</a></li>
+      <li><a class="nav-link" href="lesson02.html">Lesson 2 – Family & People</a></li>
+      <li><a class="nav-link" href="lesson03.html">Lesson 3 – Daily Routine</a></li>
+      <li><a class="nav-link" href="lesson04.html">Lesson 4 – Time, Days & Prayer Times</a></li>
+      <li><a class="nav-link" href="lesson05.html">Lesson 5 – Food, Drink & Cafés</a></li>
+      <li><a class="nav-link" href="lesson06.html">Lesson 6 – Shopping & Prices</a></li>
+      <li><a class="nav-link" href="lesson07.html">Lesson 7 – Directions & Transport</a></li>
+      <li><a class="nav-link" href="lesson08.html">Lesson 8 – Masjid, Dīn & Duʿā</a></li>
+      <li><a class="nav-link" href="lesson09.html">Lesson 9 – Health & Feeling Unwell</a></li>
+      <li><a class="nav-link" href="lesson10.html">Lesson 10 – Work, Study & Future Plans</a></li>
+      <li><a class="nav-link" href="lesson11.html">Lesson 11 – Past Tense 1</a></li>
+      <li><a class="nav-link" href="lesson12.html">Lesson 12 – Past Tense 2</a></li>
+      <li><a class="nav-link" href="lesson13.html">Lesson 13 – Future & “Gonna”</a></li>
+      <li><a class="nav-link" href="lesson14.html">Lesson 14 – Opinions & Preferences</a></li>
+      <li><a class="nav-link" href="lesson15.html">Lesson 15 – Invitations & Going Out</a></li>
+      <li><a class="nav-link" href="lesson16.html">Lesson 16 – Phone & WhatsApp Arabic</a></li>
+      <li><a class="nav-link" href="lesson17.html">Lesson 17 – At Home & Chores</a></li>
+      <li><a class="nav-link" href="lesson18.html">Lesson 18 – Travel, Airports & Hotels</a></li>
+      <li><a class="nav-link" href="lesson19.html">Lesson 19 – Eating Out & Restaurants</a></li>
+      <li><a class="nav-link" href="lesson20.html">Lesson 20 – People & Personality</a></li>
+      <li><a class="nav-link" href="lesson21.html">Lesson 21 – Stories & Past Experiences</a></li>
+      <li><a class="nav-link" href="lesson22.html">Lesson 22 – Problems & Complaints</a></li>
+      <li><a class="nav-link" href="lesson23.html">Lesson 23 – Jokes, Banter & Slang</a></li>
+      <li><a class="nav-link" href="lesson24.html">Lesson 24 – Arab Culture in the UK</a></li>
+      <li><a class="nav-link" href="lesson25.html">Lesson 25 – Media: Songs & Series</a></li>
+      <li><a class="nav-link" href="lesson26.html">Lesson 26 – Najdi / Hijāzi Deep Dive</a></li>
+      <li><a class="nav-link" href="lesson27.html">Lesson 27 – Khaleeji Influence</a></li>
+      <li><a class="nav-link" href="lesson28.html">Lesson 28 – Extended Dialogues</a></li>
+      <li><a class="nav-link" href="lesson29.html">Lesson 29 – Review 1–10</a></li>
+      <li><a class="nav-link" href="lesson30.html">Lesson 30 – Review 11–20</a></li>
+      <li><a class="nav-link" href="lesson31.html">Lesson 31 – Review 21–28</a></li>
+      <li><a class="nav-link" href="lesson32.html">Lesson 32 – Survival in Any Arab Country</a></li>
+      <li><a class="nav-link" href="lesson33.html">Lesson 33 – ʿUmrah & Ḥajj Situations</a></li>
+      <li><a class="nav-link" href="lesson34.html">Lesson 34 – High-Pressure Situations</a></li>
+      <li><a class="nav-link" href="lesson35.html">Lesson 35 – Fluent Small Talk</a></li>
+      <li><a class="nav-link" href="lesson36.html">Lesson 36 – Final Project & Wrap-up</a></li>
     </ul>
-  </div>
 
-</section>
+    <div class="sidebar-footer">
+      <strong>40%</strong> Najdi • <strong>30%</strong> Hijāzi •
+      <strong>20%</strong> Gulf • <strong>10%</strong> MSA
+    </div>
+  </aside>
 
+  <!-- MAIN CONTENT -->
+  <main class="content">
 
-<!-- ======================================================
-SECTION 2 — INTRODUCTIONS
-======================================================= -->
-<section class="lesson-section" id="sec-intros">
-  <h2 class="section-title">2️⃣ Introductions (Name, Origin, Where You Live)</h2>
+    <header class="lesson-header">
+      <h1 class="lesson-title">Lesson 1 — Greetings, Introductions &amp; The Saudi Sound</h1>
+      <p class="lesson-subtitle">
+        Start speaking like a real Saudi / Khaleeji – not a textbook robot – with natural greetings,
+        introductions, and your first complete sentences.
+      </p>
+      <div class="badge-row">
+        <span class="badge badge-accent">Level: A1 → A2</span>
+        <span class="badge">Focus: Speaking &amp; Listening</span>
+        <span class="badge">Dialect: 40% Najdi • 30% Hijāzi • 20% Gulf • 10% MSA</span>
+        <span class="badge">Time: ~90–110 minutes</span>
+      </div>
+    </header>
 
-  <div class="label">My name is…</div>
-  <div class="arabic-block">اِسْمِي زِيشَان</div>
-  <div class="latin"><strong>ismī Zīshān</strong> — My name is Zeeshan.</div>
+    <!-- 1. CORE GREETINGS -->
+    <section class="lesson-section" id="sec-greetings">
+      <h2 class="section-title">1️⃣ Core Saudi Greetings</h2>
+      <p class="section-subtitle">
+        You will use these every time you speak with Arabs – in Birmingham, the masjid,
+        Madinah, Jeddah, Riyadh… everywhere.
+      </p>
 
-  <p class="latin highlight">
-    Pattern: <strong>ismī + [your name]</strong>
-  </p>
+      <div class="label">Islamic Standard (Universal)</div>
+      <div class="arabic-block">السَّلَامُ عَلَيْكُمْ</div>
+      <div class="latin"><strong>as-salāmu ʿalaykum</strong> – Peace be upon you.</div>
 
-  <div class="label">I am from…</div>
-  <div class="arabic-block">أَنَا مِنْ بِرْمِنْغَهَام</div>
-  <div class="latin"><strong>ana min Birmingham</strong> — I’m from Birmingham.</div>
+      <div class="arabic-block">وَعَلَيْكُم السَّلَام</div>
+      <div class="latin"><strong>wa-ʿalaykum as-salām</strong> – And peace be upon you.</div>
 
-  <div class="label">I live in…</div>
-  <div class="arabic-block">أَنَا ساكِن فِي سُولِيهُول</div>
-  <div class="latin"><strong>ana sākin fī Solihull</strong> — I live in Solihull.</div>
+      <hr>
 
-  <div class="exercise-block">
-    <div class="exercise-title">📝 Write Your Intro</div>
-    <p>Write in Arabic:</p>
-    <ol>
-      <li>My name is ______.</li>
-      <li>I am from ______.</li>
-      <li>I live in ______.</li>
-      <li>I am Pakistani / British.</li>
-    </ol>
-  </div>
-</section>
+      <div class="label">Casual Saudi Style</div>
+      <div class="arabic-block">هَلّا والله</div>
+      <div class="latin"><strong>hallā wallah</strong> – Hey! Welcome brother!</div>
 
+      <div class="arabic-block">يا هَلا يا مَرْحَبَا</div>
+      <div class="latin"><strong>yā halā yā marḥabā</strong> – Warm welcome!</div>
 
-<!-- ======================================================
-SECTION 3 — PRONOUNS
-======================================================= -->
-<section class="lesson-section" id="sec-pronouns">
-  <h2 class="section-title">3️⃣ Essential Pronouns</h2>
+      <hr>
 
-  <table>
-    <thead>
-      <tr>
-        <th>English</th>
-        <th>Arabic</th>
-        <th>Translit</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr><td>I</td><td class="arabic-small">أنا</td><td>ana</td></tr>
-      <tr><td>You (m)</td><td class="arabic-small">إنتَ</td><td>inta</td></tr>
-      <tr><td>You (f)</td><td class="arabic-small">إنتِي</td><td>intī</td></tr>
-      <tr><td>He</td><td class="arabic-small">هُوَّ</td><td>huwwa</td></tr>
-      <tr><td>She</td><td class="arabic-small">هِيَّ</td><td>hiyya</td></tr>
-      <tr><td>We</td><td class="arabic-small">إحنا</td><td>iḥnā</td></tr>
-    </tbody>
-  </table>
-</section>
+      <div class="exercise-block">
+        <div class="exercise-title">🎤 Speaking Drill – Repeat Out Loud</div>
+        <p>Say each 6–10× with expression (smile, eye contact):</p>
+        <ul>
+          <li class="arabic-small">السَّلَامُ عَلَيْكُمْ</li>
+          <li class="arabic-small">وَعَلَيْكُم السَّلَام</li>
+          <li class="arabic-small">هَلّا والله</li>
+          <li class="arabic-small">يا هَلا يا مَرْحَبَا</li>
+        </ul>
+      </div>
+    </section>
 
+    <!-- 2. INTRODUCTIONS -->
+    <section class="lesson-section" id="sec-intros">
+      <h2 class="section-title">2️⃣ Introductions (Name, Origin, Where You Live)</h2>
 
-<!-- ======================================================
-SECTION 4 — A-B-C SENTENCE FORMULA
-======================================================= -->
-<section class="lesson-section" id="sec-abc">
-  <h2 class="section-title">4️⃣ The A-B-C Formula</h2>
+      <div class="label">My name is…</div>
+      <div class="arabic-block">اِسْمِي زِيشَان</div>
+      <div class="latin"><strong>ismī Zīshān</strong> – My name is Zeeshan.</div>
 
-  <p class="latin">A = WHO? • B = ACTION / STATE • C = EXTRA INFO</p>
+      <p class="latin highlight">
+        Pattern: <strong>ismī + [your name]</strong>
+      </p>
 
-  <div class="arabic-block">أَنَا تَعْبَان اليَوْم</div>
-  <div class="latin">ana taʿbān il-yōm — I’m tired today.</div>
+      <div class="label">I am from…</div>
+      <div class="arabic-block">أَنَا مِنْ بِرْمِنْغَهَام</div>
+      <div class="latin"><strong>ana min Birmingham</strong> – I’m from Birmingham.</div>
 
-  <div class="exercise-block">
-    <div class="exercise-title">👉 Try These</div>
-    <ol>
-      <li>I want tea.</li>
-      <li>She is happy.</li>
-    </ol>
-  </div>
-</section>
+      <div class="label">I live in…</div>
+      <div class="arabic-block">أَنَا ساكِن فِي سُولِيهُول</div>
+      <div class="latin"><strong>ana sākin fī Solihull</strong> – I live in Solihull.</div>
 
+      <div class="exercise-block">
+        <div class="exercise-title">📝 Write Your Intro</div>
+        <p>Write in Arabic:</p>
+        <ol>
+          <li>My name is ______.</li>
+          <li>I am from ______.</li>
+          <li>I live in ______.</li>
+          <li>I am Pakistani / British.</li>
+        </ol>
+      </div>
+    </section>
 
-<!-- ======================================================
-SECTION 5 — DIALOGUE
-======================================================= -->
-<section class="lesson-section" id="sec-dialogue">
-  <h2 class="section-title">5️⃣ Dialogue — Masjid Meeting</h2>
+    <!-- 3. PRONOUNS -->
+    <section class="lesson-section" id="sec-pronouns">
+      <h2 class="section-title">3️⃣ Essential Pronouns</h2>
 
-  <div class="dialogue">
-    <p><strong>A:</strong> السَّلام عليكم</p>
-    <p><strong>B:</strong> وعليكم السَّلام، هلا والله!</p>
-    <p><strong>A:</strong> يا هلا! كيف الحال؟</p>
-    <p><strong>B:</strong> تمام، الحمد لله. وإنت؟</p>
-  </div>
+      <table>
+        <thead>
+        <tr>
+          <th>English</th>
+          <th>Arabic</th>
+          <th>Translit</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr><td>I</td><td class="arabic-small">أنا</td><td>ana</td></tr>
+        <tr><td>You (m)</td><td class="arabic-small">إنتَ</td><td>inta</td></tr>
+        <tr><td>You (f)</td><td class="arabic-small">إنتِي</td><td>intī</td></tr>
+        <tr><td>He</td><td class="arabic-small">هُوَّ</td><td>huwwa</td></tr>
+        <tr><td>She</td><td class="arabic-small">هِيَّ</td><td>hiyya</td></tr>
+        <tr><td>We</td><td class="arabic-small">إحنا</td><td>iḥnā</td></tr>
+        </tbody>
+      </table>
+    </section>
 
-  <div class="exercise-block">
-    <div class="exercise-title">🎭 Speaking Roleplay</div>
-    <p>Switch roles + try with a real person today!</p>
-  </div>
-</section>
+    <!-- 4. A–B–C FORMULA -->
+    <section class="lesson-section" id="sec-abc">
+      <h2 class="section-title">4️⃣ The A–B–C Sentence Formula</h2>
 
+      <p class="latin">A = WHO? • B = ACTION/STATE • C = EXTRA INFO</p>
 
-<!-- ======================================================
-SECTION 6 — VOCAB BANK
-======================================================= -->
-<section class="lesson-section" id="sec-vocab">
-  <h2 class="section-title">6️⃣ Vocab Bank</h2>
-  <ul class="latin">
-    <li>مبسوط — happy</li>
-    <li>أبغى — I want</li>
-    <li>اليوم — today</li>
-    <li>موية — water (Saudi)</li>
-    <li>سوق — market</li>
-  </ul>
-</section>
+      <div class="arabic-block">أَنَا تَعْبَان اليَوْم</div>
+      <div class="latin">ana taʿbān il-yōm – I’m tired today.</div>
 
+      <div class="exercise-block">
+        <div class="exercise-title">👉 Try These</div>
+        <ol>
+          <li>I want tea.</li>
+          <li>She is happy.</li>
+        </ol>
+      </div>
+    </section>
 
-<!-- ======================================================
-SECTION 7 — QUIZ + ANSWERS
-======================================================= -->
-<section class="lesson-section" id="sec-quiz">
-  <h2 class="section-title">7️⃣ End-of-Lesson Quiz</h2>
-  <p>Translate to Arabic:</p>
-  <ol>
-    <li>I am tired today.</li>
-    <li>Where are you from?</li>
-    <li>I want water.</li>
-  </ol>
+    <!-- 5. DIALOGUE -->
+    <section class="lesson-section" id="sec-dialogue">
+      <h2 class="section-title">5️⃣ Dialogue – Meeting at the Masjid</h2>
 
-  <button class="answer-toggle" data-answer="ans-l1">
-    Show Answers
-  </button>
-  <div class="answer" id="ans-l1">
-    <p>أنا تعبان اليوم</p>
-    <p>من وين إنت؟</p>
-    <p>أبغى موية</p>
-  </div>
+      <div class="dialogue">
+        <p><strong>A:</strong> السَّلام عليكم</p>
+        <p><strong>B:</strong> وعليكم السَّلام، هلا والله!</p>
+        <p><strong>A:</strong> يا هلا! كيف الحال؟</p>
+        <p><strong>B:</strong> تمام، الحمد لله، وإنت؟</p>
+      </div>
 
-  <div class="lesson-footer">Next: Lesson 2 — Family & People</div>
-</section>
+      <div class="exercise-block">
+        <div class="exercise-title">🎭 Speaking Roleplay</div>
+        <p>Switch roles and act this out with a friend or in front of a mirror.</p>
+      </div>
+    </section>
 
-</main>
+    <!-- 6. VOCAB BANK -->
+    <section class="lesson-section" id="sec-vocab">
+      <h2 class="section-title">6️⃣ Lesson 1 Vocab Bank</h2>
+      <ul class="latin">
+        <li>مبسوط – mabsūṭ – happy</li>
+        <li>تعبان – taʿbān – tired</li>
+        <li>تمام – tamām – fine / okay</li>
+        <li>أبغى – abghā – I want</li>
+        <li>موية – moyyah – water (Saudi)</li>
+        <li>اليوم – il-yōm – today</li>
+        <li>سوق – sūg – market</li>
+      </ul>
+    </section>
+
+    <!-- 7. QUIZ -->
+    <section class="lesson-section" id="sec-quiz">
+      <h2 class="section-title">7️⃣ End-of-Lesson Quiz</h2>
+      <p>Translate to Arabic:</p>
+      <ol>
+        <li>I am tired today.</li>
+        <li>Where are you from?</li>
+        <li>I want water.</li>
+      </ol>
+
+      <button class="answer-toggle" data-answer="ans-l1">
+        <span>Show answers</span>
+      </button>
+      <div class="answer" id="ans-l1">
+        <p>أنا تعبان اليوم</p>
+        <p>من وين إنت؟</p>
+        <p>أبغى موية</p>
+      </div>
+
+      <div class="lesson-footer">
+        Next: Lesson 2 – Family &amp; People
+      </div>
+    </section>
+
+  </main>
+</div>
+
+<script src="../script.js"></script>
+</body>
+</html>
